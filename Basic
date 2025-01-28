@@ -1,0 +1,20 @@
+/*Boilerplate code for C++*/
+
+[    #include <stdio.h>/ #include <bits/stdc++.h>
+     using namespace std;
+                                      .....................................(This in an entier skeleton of C++)
+     int main(){                   
+     return 0;
+     }
+]
+
+#include<bits/stdio.h>
+#include<math.h> ....................................................(All the algorithm in math libery)
+#include<string.h> ....................................................(All the algorithm in string libery)
+using namespace std;
+  int main(){                   
+     
+return 0;
+}
+
+in C++ you just can write [ #include<bits/stdc++.h> ]
