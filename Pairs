@@ -10,3 +10,5 @@ void explainPair(){
      pair<int, int> arr[] = { {1,2}, {2,5}, {5,1}};
      cout << arr[1].second;
 }
+
+**in place of int we can use any type of data type double , char, string
