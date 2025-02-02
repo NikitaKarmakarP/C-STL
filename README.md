@@ -22,7 +22,14 @@ STL is one of the unique abilities of C++ which makes it stand out from every ot
 
 If you dive a little deeper into STL, you will have to understand everything about templates and how they work, which is one of the most power full tools when it comes to C++ programming language.
 
-## However, in this tutorial we will stick to some of the most popular STL containers and algorithms, and its useful functions which is used by programmers very frequently in day to day programming.
+## C++ STL divided into 4 parts
+
+- Algorithm
+- Containers
+- Functions
+- Iterators
+
+## However, in this repository we will stick to some of the most popular STL containers and algorithms, and its useful functions which is used by programmers very frequently in day to day programming.
 
 - unordered_set in C++ STL
 - Vector in C++ STL
