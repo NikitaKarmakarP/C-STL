@@ -11,4 +11,4 @@ void explainPair(){
      cout << arr[1].second;
 }
 
-**in place of int we can use any type of data type double , char, string
+**in place of int we can use any type of data type double , char, string**
