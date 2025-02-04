@@ -24,3 +24,5 @@ void explainVector(){
 
       it++;
       cout << *(it) << " ";
+
+}
